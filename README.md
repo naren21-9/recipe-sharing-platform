@@ -15,3 +15,4 @@ After the successfull installation of the packages: `yarn dev`
 ## Test
 
 Run `yarn test` to run testing
+# recipe-sharing-platform
